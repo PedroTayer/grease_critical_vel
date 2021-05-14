@@ -2,3 +2,5 @@ pandas
 matplotlib
 jupyterlab
 jupyterlab_latex
+texlive-latex-extra
+cm-super
