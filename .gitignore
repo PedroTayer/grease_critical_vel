@@ -132,5 +132,3 @@ dmypy.json
 # Extras
 *.db
 *.idea
-*.ipynb
-project_hg/scoutisticas/external_services/google/token.pickle
