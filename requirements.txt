@@ -1,2 +1,4 @@
 pandas
 matplotlib
+jupyterlab
+jupyterlab_latex
