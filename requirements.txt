@@ -1,4 +1,4 @@
+jupyterlab==2.2.0
 pandas
 matplotlib
-jupyterlab==2.2.0
 jupyterlab_latex
