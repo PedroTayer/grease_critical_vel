@@ -3,4 +3,3 @@ matplotlib
 jupyterlab
 jupyterlab_latex
 pylatex
-cm-super
