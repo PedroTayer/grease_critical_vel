@@ -10,3 +10,5 @@ DOI 10.1007/s11249-015-0537-y
 
 
 ## Link to binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PedroTayer/grease_critical_vel/master?filepath=plot_vel.ipynb)
